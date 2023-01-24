@@ -1,4 +1,6 @@
 ### Hi there 👋
+![WhatsApp Image 2023-01-24 at 21 45 42](https://user-images.githubusercontent.com/108951092/214382932-c082f8e9-dc12-4d40-83c8-42eb56287c12.jpeg)
+
 - 🔭 I’m currently student of management information systems  
 - 🌱 I’m currently learning C# 
 - 📫 How to reach me: www.linkedin.com/in/ziya-ayaz
