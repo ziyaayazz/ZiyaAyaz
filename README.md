@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently student of management information systems  
+- 🌱 I’m currently learning C# 
+- 📫 How to reach me: www.linkedin.com/in/ziya-ayaz
+- ⚡ About me:I am trying to improve myself as a Jr. Software Developer
+
 
 <!--
 **ziyaayazz/ziyaayazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
