@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/ziya-ayaz
 - ⚡ About me:I am trying to improve myself as a Jr. Software Developer
 -->
-![WhatsApp Image 2023-01-24 at 21 45 42](https://user-images.githubusercontent.com/108951092/214381306-596181fa-64db-48f8-985b-d8c164c53a7a.jpeg)
+[WhatsApp Image 2023-01-24 at 21 45 42](https://user-images.githubusercontent.com/108951092/214381306-596181fa-64db-48f8-985b-d8c164c53a7a.jpeg)
 
 
 
